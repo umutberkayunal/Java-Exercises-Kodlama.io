@@ -35,6 +35,7 @@ public class Main {
 		number1 = 30;
 		System.out.println(number2);
 		
+		//arrays are reference types. 
 		int[] numbers1 = new int[] {1, 2, 3};
 		int[] numbers2 = new int[] {4, 5, 6};
 		numbers2 = numbers1;
